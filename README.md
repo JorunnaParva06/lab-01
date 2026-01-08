@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** Jed Krause
-- **CCID:** `jkrause2
+- **CCID:** jkrause2
 
 ## References and Resources
 
